@@ -1,0 +1,21 @@
+mode: set
+github.com/mhlengi/primeapp/main.go:12.13,25.2 6 0
+github.com/mhlengi/primeapp/main.go:27.54,30.6 2 1
+github.com/mhlengi/primeapp/main.go:30.6,33.11 2 1
+github.com/mhlengi/primeapp/main.go:38.3,39.11 2 1
+github.com/mhlengi/primeapp/main.go:33.11,36.4 2 1
+github.com/mhlengi/primeapp/main.go:43.58,48.44 2 1
+github.com/mhlengi/primeapp/main.go:53.2,54.15 2 1
+github.com/mhlengi/primeapp/main.go:58.2,60.19 2 1
+github.com/mhlengi/primeapp/main.go:48.44,50.3 1 1
+github.com/mhlengi/primeapp/main.go:54.15,56.3 1 1
+github.com/mhlengi/primeapp/main.go:63.14,68.2 4 1
+github.com/mhlengi/primeapp/main.go:70.15,72.2 1 1
+github.com/mhlengi/primeapp/main.go:74.36,76.22 1 1
+github.com/mhlengi/primeapp/main.go:81.2,81.11 1 1
+github.com/mhlengi/primeapp/main.go:86.2,86.28 1 1
+github.com/mhlengi/primeapp/main.go:93.2,93.54 1 1
+github.com/mhlengi/primeapp/main.go:76.22,78.3 1 1
+github.com/mhlengi/primeapp/main.go:81.11,83.3 1 1
+github.com/mhlengi/primeapp/main.go:86.28,87.15 1 1
+github.com/mhlengi/primeapp/main.go:87.15,90.4 1 1
